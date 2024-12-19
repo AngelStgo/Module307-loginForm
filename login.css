@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(58, 122, 122);
+}
+form {
+    color: rgb(3, 4, 0);
+    background-color: darkslategrey;
+    /* display: flex;
+    justify-content: center; */
+    text-align: center;
+    width: 300px;
+    height: 400px;
+    box-shadow: 6px 7px 20px;
+    margin: 30px 30px 30px 30px;
+}
+img {
+    text-align: center;
+    border: 3px solid #555;
+    border-radius: 100%;
+    margin-top: 25px;
+    box-shadow: 6px 7px 35px;
+}
+
+/* .container {
+    justify-content: center;
+} */
